@@ -21,23 +21,7 @@
     <li>Visualising data: Graphs can be easily generated to monitor user's progress over time.</li>
     <li>Tracking goals: Adding and customising daily goals can help improve perforamnce and hold users accountable.</li>
     <li>Designing modular: Users can easily modify the app's functionality and make it more personalised to their needs.</li>
-</ol>
-
- ## File Layout 
- <p>
- Health-Tracker/<br>
-├── data/ <br>
-│   └── health_data.csv       <br>  
-├── visualizations/<br>
-│   └── trend_chart.png   <br>     
-├── utils/<br>
-│   ├── data_handler.py <br>       
-│   ├── input_handler.py <br>      
-│   ├── visualization.py <br>      
-│   └── goals_checker.py <br>      
-├── health_tracker.py  <br>        
-├── README.md  <br>                
-└── requirements.txt <br>          
+</ol>       
 
 </p>
 
