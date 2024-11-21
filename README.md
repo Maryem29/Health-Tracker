@@ -13,7 +13,6 @@
         ↳ studying (hours)<br>
     </ul>
 </p>
-<br>
 
 ## App features
 <ol>
@@ -26,19 +25,19 @@
 
  ## File Layout 
  <p>
- Health-Tracker/
-├── data/
-│   └── health_data.csv         
-├── visualizations/
-│   └── trend_chart.png        
-├── utils/
-│   ├── data_handler.py        
-│   ├── input_handler.py       
-│   ├── visualization.py       
-│   └── goals_checker.py       
-├── health_tracker.py          
-├── README.md                  
-└── requirements.txt           
+ Health-Tracker/<br>
+├── data/ <br>
+│   └── health_data.csv       <br>  
+├── visualizations/<br>
+│   └── trend_chart.png   <br>     
+├── utils/<br>
+│   ├── data_handler.py <br>       
+│   ├── input_handler.py <br>      
+│   ├── visualization.py <br>      
+│   └── goals_checker.py <br>      
+├── health_tracker.py  <br>        
+├── README.md  <br>                
+└── requirements.txt <br>          
 
 </p>
 
@@ -50,6 +49,6 @@
 </ul>
 
 ## Comments
-<p>I really like how the project turned out in the end I think for my next health_tracker application I would like to make it a bit more personalised and interactive. I want to use HTML and CSS for my next tracker instead and I want to add reminders, quotes, journaling section, and notifications for daily encouragement. I think to make my data analysis more advanced my app should support data export to Excel. This app is quite simple so for the future I will focus more on adding more personalised options like habit categories and other new metrics.</p>
+<p>⋆˚｡⋆୨୧˚ I really like how the project turned out in the end I think for my next health_tracker application I would like to make it a bit more personalised and interactive. I want to use HTML and CSS for my next tracker instead and I want to add reminders, quotes, journaling section, and notifications for daily encouragement. I think to make my data analysis more advanced my app should support data export to Excel. This app is quite simple so for the future I will focus more on adding more personalised options like habit categories and other new metrics ⋆˚｡⋆୨୧˚.</p>
 
 <p align="left">𓍊𓋼𓍊𓋼𓍊</p><p align="right">𓍊𓋼𓍊𓋼𓍊</p>
