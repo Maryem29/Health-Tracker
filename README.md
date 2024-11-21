@@ -5,12 +5,12 @@
 <p>
 ୨୧ This simple python health tracker app will allow users (target audience ──✦ students) input, track, and monitor their daily habits and health metrics. I wanted to efficiently log in health metrics daily, visualise my trends, and check for progress and motivation. It is very simple and easy to use to accomadate the hectic life of a student by allowing for easy and quick daily habit tracking ₊˚⊹♡.
     <ul>
-        ↳ <li>steps walked</li>
-        ↳ <li>sleep (hours)</li>
-        ↳ <li>water intake (cups)</li>
-        ↳ <li>excercise (hours)</li>
-        ↳ <li>reading (hours)</li>
-        ↳ <li>studying (hours)</li>
+        ↳ steps walked <br>
+        ↳ sleep (hours)<br>
+        ↳ water intake (cups)<br>
+        ↳ excercise (hours)<br>
+        ↳ reading (hours)<br>
+        ↳ studying (hours)<br>
     </ul>
 </p>
 <br>
