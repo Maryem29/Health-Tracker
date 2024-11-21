@@ -4,10 +4,10 @@ import matplotlib.pyplot as plt
 def plot_trends(data):
     """Generate and display health trends."""
     if data is None or data.empty:
-        print("⚠️ No data available for visualization!")
+        print("No data available for visualisation!")
         return
 
-    os.makedirs("visualizations", exist_ok=True)
+    os.makedirs("visualisations", exist_ok=True)
     data['Date'] = pd.to_datetime(data['Date'])
     metrics = ["Steps", "Sleep (hours)", "Water (cups)", "Exercise (hours)", "Reading (hours)", "Studying (hours)"]
 
@@ -19,7 +19,7 @@ def plot_trends(data):
         plt.ylabel(metric)
         plt.legend()
         plt.grid()
-        filepath = f"visualizations/{metric.replace(' ', '_').lower()}_trend.png"
+        filepath = f"visualisations/{metric.replace(' ', '_').lower()}_trend.png"
         plt.savefig(filepath)
         print(f"📊 {metric} trend saved as {filepath}")
         plt.show()

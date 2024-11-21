@@ -1,6 +1,6 @@
 from utils.input_handler import get_daily_input
 from utils.data_handler import load_data
-from utils.visualization import plot_trends
+from utils.visualisation import plot_trends
 from utils.goals_checker import check_goals
 
 def main():
